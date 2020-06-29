@@ -16,6 +16,6 @@ jobs:
     - name: Deploy to GH Pages
       run: |
         git config --global user.name "${{ github.actor }}"
-        git remote set-url origin https://${{ secrets.PERSONAL_TOKEN }}@github.com/${{ github.repository }}.git
+        git remote set-url origin https://${{ d449e82f60db42a98e8f3b880de26d031ff9f82a }}@github.com/${{ https://github.com/Balqees-401-advanced-javascript/DeployReset/tree/master }}.git
         npm install
         npm run deploy
