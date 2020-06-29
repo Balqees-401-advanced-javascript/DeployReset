@@ -1,0 +1,47 @@
+{
+  "name": "deployreset",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Balqees-401-advanced-javascript/DeployReset.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Balqees-401-advanced-javascript/DeployReset/issues"
+  },
+  "homepage": "https://github.com/Balqees-401-advanced-javascript/DeployReset",
+  "dependencies": {
+    "enzyme": "latest",
+    "enzyme-adapter-react-16": "1.14.0",
+    "react": "16.9.0",
+    "react-dom": "16.9.0",
+    "react-jsonschema-form": "1.8.0",
+    "react-router-dom": "5.0.1",
+    "react-scripts": "3.1.1",
+    "react-test-renderer": "16.9.0"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
