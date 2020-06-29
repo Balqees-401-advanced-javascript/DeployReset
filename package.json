@@ -21,7 +21,7 @@
   "bugs": {
     "url": "https://github.com/Balqees-401-advanced-javascript/DeployReset/issues"
   },
-  "homepage": "https://github.com/Balqees-401-advanced-javascript/DeployReset",
+  "homepage": "https://balqees-401-advanced-javascript.github.io/DeployReset/",
   "dependencies": {
     "enzyme": "latest",
     "enzyme-adapter-react-16": "1.14.0",
@@ -43,5 +43,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
   }
 }

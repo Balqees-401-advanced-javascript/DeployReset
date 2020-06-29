@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/Balqees-401-advanced-javascript/DeployReset/static/js/main.814dc061.chunk.js",
-    "main.js.map": "/Balqees-401-advanced-javascript/DeployReset/static/js/main.814dc061.chunk.js.map",
-    "runtime~main.js": "/Balqees-401-advanced-javascript/DeployReset/static/js/runtime~main.f5753474.js",
-    "runtime~main.js.map": "/Balqees-401-advanced-javascript/DeployReset/static/js/runtime~main.f5753474.js.map",
-    "static/js/2.68acf433.chunk.js": "/Balqees-401-advanced-javascript/DeployReset/static/js/2.68acf433.chunk.js",
-    "static/js/2.68acf433.chunk.js.map": "/Balqees-401-advanced-javascript/DeployReset/static/js/2.68acf433.chunk.js.map",
-    "index.html": "/Balqees-401-advanced-javascript/DeployReset/index.html",
-    "precache-manifest.3c483e3aa3ad5063d0c8bcd184245f12.js": "/Balqees-401-advanced-javascript/DeployReset/precache-manifest.3c483e3aa3ad5063d0c8bcd184245f12.js",
-    "service-worker.js": "/Balqees-401-advanced-javascript/DeployReset/service-worker.js"
+    "main.js": "/DeployReset/static/js/main.814dc061.chunk.js",
+    "main.js.map": "/DeployReset/static/js/main.814dc061.chunk.js.map",
+    "runtime~main.js": "/DeployReset/static/js/runtime~main.3d5406d4.js",
+    "runtime~main.js.map": "/DeployReset/static/js/runtime~main.3d5406d4.js.map",
+    "static/js/2.68acf433.chunk.js": "/DeployReset/static/js/2.68acf433.chunk.js",
+    "static/js/2.68acf433.chunk.js.map": "/DeployReset/static/js/2.68acf433.chunk.js.map",
+    "index.html": "/DeployReset/index.html",
+    "precache-manifest.3fd3be8ae1855962d67b3a9090666a4c.js": "/DeployReset/precache-manifest.3fd3be8ae1855962d67b3a9090666a4c.js",
+    "service-worker.js": "/DeployReset/service-worker.js"
   }
 }
